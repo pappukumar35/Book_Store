@@ -1,29 +1,31 @@
+
 # 📚 Book Store
 
-A comprehensive web application to browse, manage, and explore books with a user-friendly interface.
+A comprehensive **Spring Boot** web application for managing and browsing books. Built with modern technologies including Hibernate, JDBC, and MySQL.
 
 ---
 
 ## ✨ Features
 
 ✅ Browse a list of available books  
-✅ Search by title, author, or genre  
+✅ Search books by title, author, or genre  
 ✅ Add new books with details  
 ✅ View book information in detail  
-✅ Responsive design for all devices
+✅ Use Postman to test REST APIs  
+✅ Responsive and customizable
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (React/Angular/Vue optional)
-- **Backend**: Spring Boot / Node.js
-- **Database**: MySQL / PostgreSQL
-- **Version Control**: Git & GitHub
+- **Backend**: Spring Boot, Hibernate, JDBC  
+- **Database**: MySQL  
+- **API Testing**: Postman  
+- **Version Control**: Git & GitHub  
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
 ```bash
 # Clone the repository
@@ -32,8 +34,11 @@ git clone https://github.com/yourusername/book-store.git
 # Navigate to the project directory
 cd book-store
 
-# Install dependencies (Node.js example)
-npm install
+# Open the project in your IDE (e.g., IntelliJ, Eclipse)
+# Configure the database connection in application.properties
+spring.datasource.url=jdbc:mysql://localhost:3306/bookstore
+spring.datasource.username=your_username
+spring.datasource.password=your_password
 
-# Start the application
-npm start
+# Build and run the application
+mvn spring-boot:run
