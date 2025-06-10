@@ -42,3 +42,5 @@ spring.datasource.password=your_password
 
 # Build and run the application
 mvn spring-boot:run..
+
+# localhost:http/8080
