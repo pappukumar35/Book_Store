@@ -41,4 +41,4 @@ spring.datasource.username=your_username
 spring.datasource.password=your_password
 
 # Build and run the application
-mvn spring-boot:run
+mvn spring-boot:run..
