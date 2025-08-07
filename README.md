@@ -1,5 +1,5 @@
 
-# 📚 Book Store
+# 📚 Book Store.
 
 A comprehensive **Spring Boot** web application for managing and browsing books. Built with modern technologies including Hibernate, JDBC, and MySQL.
 
