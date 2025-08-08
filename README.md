@@ -12,7 +12,7 @@ A comprehensive **Spring Boot** web application for managing and browsing books.
 ✅ Add new books with details  
 ✅ View book information in detail  
 ✅ Use Postman to test REST APIs  
-✅ Responsive and customizable
+✅ Responsive and customizable.
 
 ---
 
