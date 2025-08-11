@@ -16,7 +16,7 @@ A comprehensive **Spring Boot** web application for managing and browsing books.
 
 ---
 
-## 🚀 Tech Stack.
+## 🚀 Tech Stack
 
 - **Backend**: Spring Boot, Hibernate, JDBC  
 - **Database**: MySQL  
