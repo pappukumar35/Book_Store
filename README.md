@@ -5,7 +5,7 @@ A comprehensive **Spring Boot** web application for managing and browsing books.
 
 ---
 
-## ✨ Features.
+## ✨ Features
 
 ✅ Browse a list of available books  
 ✅ Search books by title, author, or genre  
