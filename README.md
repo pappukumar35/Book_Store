@@ -1,4 +1,4 @@
-# 📚 Book Store – Spring Boot Web Application
+# 📚 Book Store – Spring Boot Web Application.
 
 A modern and comprehensive **Spring Boot** web application for managing and browsing books.  
 Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scalability.
