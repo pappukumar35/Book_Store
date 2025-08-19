@@ -27,7 +27,7 @@ Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scal
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup.
 
 1️⃣ **Clone the repository**
 cd book-store
