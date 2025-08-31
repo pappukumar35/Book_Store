@@ -16,7 +16,7 @@ Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scal
 
 ---
 
-## 🛠 Tech Stack.
+## 🛠 Tech Stack
 
 | Layer          | Technology |
 |----------------|------------|
