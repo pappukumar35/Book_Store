@@ -12,7 +12,7 @@ Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scal
 - ➕ **Add New Books** – Include details like title, author, price, and genre  
 - 📖 **Detailed View** – Check complete book information before purchasing  
 - 🛠 **REST API Testing** – Fully testable using **Postman**  
-- 📱 **Responsive Design** – Works on desktop & mobile  .
+- 📱 **Responsive Design** – Works on desktop & mobile  
 
 ---
 
