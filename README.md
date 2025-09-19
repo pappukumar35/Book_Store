@@ -5,7 +5,7 @@ Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scal
 
 ---
 
-## ✨ Features.______
+## ✨ Features.____
 
 - ✅ **Browse Books** – View a list of available books with details  
 - 🔍 **Search Functionality** – Search by *title*, *author*, or *genre*  
