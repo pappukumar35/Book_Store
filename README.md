@@ -14,7 +14,6 @@ Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scal
 - 🛠 **REST API Testing** – Fully testable using **Postman**  
 - 📱 **Responsive Design** – Works on desktop & mobile. 
 
--------............................................
 
 ## 🛠 Tech Stack.
 
