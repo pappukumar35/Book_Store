@@ -40,7 +40,7 @@ http://localhost:8080
 GET http://localhost:8080/api/books.
 
 
--------
+-------......
 
 If you want, I can also **add badges** for Java, Spring Boot, and MySQL at the top so it looks even more professional on GitHub.  
 Do you want me to include those?
