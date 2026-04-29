@@ -1,4 +1,4 @@
-# 📚 Book Store – Spring Boot Web Application.
+p# 📚 Book Store – Spring Boot Web Application.
 
 A modern and comprehensive **Spring Boot** web application for managing and browsing books.  
 Built using **Hibernate**, **JDBC**, and **MySQL** to ensure efficiency and scalability.
@@ -40,7 +40,7 @@ http://localhost:8080
 GET http://localhost:8080/api/books.
 
 
--------......
+-------
 
 If you want, I can also **add badges** for Java, Spring Boot, and MySQL at the top so it looks even more professional on GitHub.  
 Do you want me to include those?
