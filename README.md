@@ -37,7 +37,7 @@ mvn spring-boot:run
 
 http://localhost:8080
 
-GET http://localhost:8080/api/books.
+GET http://localhost:8080/api/books...
 
 
 
